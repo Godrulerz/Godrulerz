@@ -14,19 +14,9 @@
 ## 🔧 Technical Arsenal  
 💻 **Languages:** JavaScript, Python, C, Shell, HTML/CSS  
 ⚡ **Frameworks:** Node.js, Django, Spring Boot, Express, jQuery  
-🛠 **Cybersecurity Tools:**  
-  - 🔍 Nmap, Metasploit, Burp Suite  
-  - 🕵️‍♂️ Wireshark, Shodan, Nessus  
-  - 🔥 OWASP Top 10, SIEM (Splunk, Graylog)  
-
-🚀 **DevOps & Cloud:**  
-  - 🐳 Docker, Kubernetes, Jenkins  
-  - ☁️ AWS, GCP, Cloudflare  
-  - ⚙️ Ansible, Terraform  
-
-🧠 **Libraries & Databases:**  
-  - ⚡ React, TensorFlow, PyTorch  
-  - 🗄️ PostgreSQL, MongoDB, Redis  
+🛠 **Cybersecurity Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Shodan, Nessus  
+🚀 **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, GCP, Cloudflare, Ansible, Terraform  
+🧠 **Libraries & Databases:** React, TensorFlow, PyTorch, PostgreSQL, MongoDB, Redis  
 
 ---
 
@@ -38,19 +28,12 @@
 
 ## 💼 Experience  
 🔹 **Cybersecurity Intern @ PreLabs** *(June – Sept 2023)*  
-  - 🕵️‍♂️ Conducted **penetration testing** using **Metasploit, Burp Suite, and Nessus**  
-  - 🛡️ Secured systems with **firewalls, IDS/IPS**, and **endpoint security solutions**  
-
 🔹 **DevOps Intern @ Ingenious-TechWorld** *(June – Sept 2024)*  
-  - ⚙️ Automated CI/CD pipelines with **Jenkins & GitLab CI**  
-  - 🐳 Managed containerized apps with **Docker & Kubernetes**  
-
 🔹 **Machine Learning Intern @ Silicon Institute of Technology** *(June – Sept 2022)*  
-  - 🤖 Built & deployed ML models with **TensorFlow, PyTorch, and Scikit-Learn**  
 
 ---
 
-## 📊 GitHub Analytics  
+## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Godrulerz&show_icons=true&theme=radical" alt="Ashish's GitHub stats" />
 </p>
@@ -63,6 +46,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godrulerz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Godrulerz&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Godrulerz&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godrulerz&theme=radical" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -72,14 +64,18 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🌟 Contribution Graph
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="400"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Godrulerz&theme=radical" alt="Ashish's Activity Graph" />
 </p>
 
+---
+
+## 🐍 Snake Eating My Contributions (Animated)
 <p align="center">
-  <img src="https://media.giphy.com/media/VgRzbdz5p2Pbs/giphy.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/Godrulerz/Godrulerz/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 ## 🕵️‍♂️ Hack The Planet!  
