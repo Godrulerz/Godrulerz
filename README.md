@@ -74,9 +74,12 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Godrulerz&theme=radical" />
+  <img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VgRzbdz5p2Pbs/giphy.gif" width="400"/>
+</p>
 ---
 
 ## 🕵️‍♂️ Hack The Planet!  
