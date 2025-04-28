@@ -50,6 +50,35 @@
 
 ---
 
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Godrulerz&show_icons=true&theme=radical" alt="Ashish's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godrulerz&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godrulerz&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Godrulerz&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Godrulerz&theme=radical" />
+</p>
+
+---
+
 ## 🕵️‍♂️ Hack The Planet!  
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qOXhxNjdtOGJveXphdGJ1aGhlM2Y2NzNzd2RjMXBvNTlyM3M4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9J7tdYltWyXIY/giphy.gif" width="400"/>
@@ -73,4 +102,3 @@
 ---
 
 🚀 **Let's break, hack, and secure the world together!** 💻🔒  
-
