@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Ashish Kumar! </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="400"/>
+  <img src="https://giphy.com/gifs/robert-downey-jr-the-avengers-clark-gregg-bRDqRstCzPln2" width="400"/>
 </p>
 
 ## 🛡️ About Me  
