@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Ashish Kumar! </h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3p0ZHh2YjZodHk2cDRybXc0OHBpcHpkczZhbzlvaG12NnMzZm5weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1q4wEfNpu5FFm/giphy.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FseTl1eTdoOTl1bndsc2h1YmZscnEzamszOXBzdjN0aHh6NGd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ltyoIL6d7uZG/giphy.gif" width="400"/>
 </p>
 
 ## 🛡️ About Me  
