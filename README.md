@@ -64,20 +64,6 @@
 
 ---
 
-## 🌟 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Godrulerz&theme=radical" alt="Ashish's Activity Graph" />
-</p>
-
----
-
-## 🐍 Snake Eating My Contributions (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Godrulerz/Godrulerz/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🕵️‍♂️ Hack The Planet!  
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qOXhxNjdtOGJveXphdGJ1aGhlM2Y2NzNzd2RjMXBvNTlyM3M4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9J7tdYltWyXIY/giphy.gif" width="400"/>
