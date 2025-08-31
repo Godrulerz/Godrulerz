@@ -15,7 +15,7 @@
 💻 **Languages:** JavaScript, Python, C, Shell, HTML/CSS  
 ⚡ **Frameworks:** Node.js, Django, Spring Boot, Express, jQuery  
 🛠 **Cybersecurity Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Shodan, Nessus  
-🚀 **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, GCP, Cloudflare, Ansible, Terraform  
+🚀 **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, GCP, Cloudflare, Ansible, Terraform , Helm
 🧠 **Libraries & Databases:** React, TensorFlow, PyTorch, PostgreSQL, MongoDB, Redis  
 
 ---
@@ -27,10 +27,12 @@
 ---
 
 ## 💼 Experience  
-🔹 **Cybersecurity Intern @ PreLabs** *(June – Sept 2023)*  
-🔹 **DevOps Intern @ Ingenious-TechWorld** *(June – Sept 2024)*  
-🔹 **Machine Learning Intern @ Silicon Institute of Technology** *(June – Sept 2022)*  
 
+🔹 AI Intern @ GDPS Innovation LLP  *(August 2025 - Continue) 
+🔹 Cybersecurity Intern @ PreLabs (June – Sept 2023)  
+🔹 DevOps Intern @ Ingenious-TechWorld (June – Sept 2024)  
+🔹 Machine Learning Intern @ Silicon Institute of Technology (June – Sept 2022)  
+ 
 ---
 
 ## 📈 GitHub Analytics
