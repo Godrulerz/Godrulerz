@@ -1,9 +1,4 @@
 <h1 align="center">👋 Hey, I'm Ashish Kumar! </h1>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FseTl1eTdoOTl1bndsc2h1YmZscnEzamszOXBzdjN0aHh6NGd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ltyoIL6d7uZG/giphy.gif" width="400"/>
-</p>
-
 ## 🛡️ About Me  
 🔹 **Cybersecurity Enthusiast | Pentester | DevOps Engineer** 🔹 Passionate about **ethical hacking, system security, and cloud automation** 🔹 Love breaking and securing things 🔥  
 
@@ -100,33 +95,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godrulerz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Godrulerz&theme=radical&hide_border=true&area=true" alt="Ashish's Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Godrulerz&theme=radical" />
-<br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godrulerz&theme=radical" />
-</p>
-
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Godrulerz&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🕵️‍♂️ Hack The Planet!  
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qOXhxNjdtOGJveXphdGJ1aGhlM2Y2NzNzd2RjMXBvNTlyM3M4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9J7tdYltWyXIY/giphy.gif" width="400"/>
-</p>
-
----
-
 ## 📫 Let's Connect!  
 <p align="center">
   <a href="https://github.com/Godrulerz">
