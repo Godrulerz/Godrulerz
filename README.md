@@ -106,10 +106,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Godrulerz&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Godrulerz&theme=radical" />
 <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godrulerz&theme=radical" />
