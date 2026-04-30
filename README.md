@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hey, I'm Ashish Kumar! </h1>
 ## 🛡️ About Me  
-🔹 **Cybersecurity Enthusiast | Pentester | DevOps Engineer** 🔹 Passionate about **ethical hacking, system security, and cloud automation** 🔹 Love breaking and securing things 🔥  
-
+🔹 Computer Science Engineer | Cybersecurity & DevOps Enthusiast | AI Intern 🔹 Passionate about **building secure systems, cloud automation, and ethical hacking** 🔹 Love breaking, building, and securing things at scale 🔥
 ---
 
 ## 🔧 Technical Arsenal  
