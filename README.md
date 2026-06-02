@@ -12,6 +12,8 @@
 🛠 **Cybersecurity Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Shodan, Nessus  
 🚀 **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, GCP, Cloudflare, Ansible, Terraform, Helm  
 🧠 **Libraries & Databases:** React, TensorFlow, PyTorch, PostgreSQL, MongoDB, Redis  
+🤖 **AI Development:** RAG Pipelines, Fine-Tuning (LLMs), GraphQL, Vector Databases, Graph Neural Networksrraform, Helm  
+🧠 **Libraries & Databases:** React, TensorFlow, PyTorch, PostgreSQL, MongoDB, Redis  
 
 <br>
 
