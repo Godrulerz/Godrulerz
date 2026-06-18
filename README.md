@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ashish Kumar! </h1>
+<h1 align="center">👋 Hey, I'm Ashish Kumar! </h1>
 <p align="center">
   🛡️ <strong>About Me</strong><br><br>
   🔹 <strong>Computer Science Engineer | Cybersecurity & DevOps Enthusiast | AI Intern</strong> 🔹<br><br>
