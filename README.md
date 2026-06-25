@@ -78,8 +78,8 @@
 🎓 **Silicon Institute of Technology, Bhubaneswar** 📅 *2021 – 2025* | **B.E. in Computer Science & Technology** ---
 
 ## 💼 Experience  
-
-🔹 AI Intern @ GDPS Innovation LLP (August 2025 - Continue)  
+🔹 AI Software Developer @ Navera Ventures (May 2026 - Continue)
+🔹 AI Backend Developer @ GDPS Innovation LLP (August 2025 - Jan 2026)  
 🔹 Cybersecurity Intern @ PreLabs (June – Sept 2023)  
 🔹 DevOps Intern @ Ingenious-TechWorld (June – Sept 2024)  
 🔹 Machine Learning Intern @ Silicon Institute of Technology (June – Sept 2022)  
