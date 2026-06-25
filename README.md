@@ -80,6 +80,7 @@
 ## 💼 Experience  
 
 🔹 AI Developer @ Navera Ventures (May 2026 - Continue)
+
 🔹 AI Backend Developer @ GDPS Innovation LLP (August 2025 - January 2026) 
 🔹 Cybersecurity Intern @ PreLabs (June – Sept 2023)  
 🔹 DevOps Intern @ Ingenious-TechWorld (June – Sept 2024)  
