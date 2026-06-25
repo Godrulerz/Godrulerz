@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hey, I'm Ashish Kumar! </h1>
 <p align="center">
   🛡️ <strong>About Me</strong><br><br>
-  🔹 <strong>Computer Science Engineer | Cybersecurity & DevOps Enthusiast | AI Intern</strong> 🔹<br><br>
+  🔹 <strong>Computer Science Engineer | Cybersecurity & DevOps Enthusiast | AI Developer</strong> 🔹<br><br>
   Passionate about <strong>building secure systems, cloud automation, and ethical hacking</strong> 🔒☁️<br><br>
   Love breaking, building, and securing things at scale 🔥
 </p>
 
 ## 🔧 Technical Arsenal  
 💻 **Languages:** JavaScript, Python, C, Shell, HTML/CSS  
-⚡ **Frameworks:** Node.js, Django, Spring Boot, Express, jQuery  
+⚡ **Frameworks:** FastAPI, Node.js, Django, Spring Boot, Express, jQuery  
 🛠 **Cybersecurity Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Shodan, Nessus  
 🚀 **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, GCP, Cloudflare, Ansible, Terraform, Helm  
 🧠 **Libraries & Databases:** React, TensorFlow, PyTorch, PostgreSQL, MongoDB, Redis  
-🤖 **AI Development:** RAG Pipelines, Fine-Tuning (LLMs), GraphQL, Vector Databases, Graph Neural Networksrraform, Helm  
+🤖 **AI Development:** RAG Pipelines, Fine-Tuning (LLMs), GraphQL, Vector Databases, Graph Neural Networks  
 
 <br>
 
@@ -21,6 +21,7 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" alt="shell logo" />
   <img width="13" />
@@ -75,14 +76,16 @@
 ---
 
 ## 🎓 Education  
-🎓 **Silicon Institute of Technology, Bhubaneswar** 📅 *2021 – 2025* | **B.E. in Computer Science & Technology** ---
+🎓 **Silicon Institute of Technology, Bhubaneswar** 📅 *2021 – 2025* | **B.E. in Computer Science & Technology**  
+
+---
 
 ## 💼 Experience  
-
-🔹 AI Developer @ Navera Ventures (May 2026 - Continue)
-🔹 AI Backend Developer @ GDPS Innovation LLP (August 2025 - January 2026) 
-🔹 Cybersecurity Intern @ PreLabs (June – Sept 2023)  
-🔹 DevOps Intern @ Ingenious-TechWorld (June – Sept 2024)   
+🔹 **AI Software Developer** @ Navera Ventures *(May 2026 - Present)*  
+🔹 **AI Backend Developer** @ GDPS Innovation LLP *(August 2025 - January 2026)*  
+🔹 **DevOps Intern** @ Ingenious-TechWorld *(June 2024 – September 2024)*  
+🔹 **Cybersecurity Intern** @ PreLabs *(June 2023 – September 2023)*  
+🔹 **Machine Learning Intern** @ Silicon Institute of Technology *(June 2022 – September 2022)*  
 
 ---
 
@@ -96,16 +99,17 @@
 
 ## 📫 Let's Connect!  
 <p align="center">
-  <a href="https://github.com/Godrulerz">
+  <a href="https://github.com/Godrulerz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/godrulerz">
+  <a href="https://linkedin.com/in/ashish-kumar-34169b21a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ashishashish.ak56@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-🚀 **Let's break, hack, and secure the world together!** 💻🔒
+<p align="center">🚀 <strong>Let's break, hack, and secure the world together!</strong> 💻🔒</p>
