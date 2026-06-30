@@ -112,4 +112,4 @@
 
 ---
 
-<p align="center">🚀 <strong>Let's break, hack, and secure the world together!</strong> 💻🔒</p>
+<p align="center"> <strong>Let's break, hack, and secure the world together!</strong> 💻🔒</p>
